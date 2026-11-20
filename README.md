@@ -1,6 +1,10 @@
 # Игры разума (Python)
 
 [![hexlet-check](https://github.com/Evgenii86-97/qa-auto-engineer-python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Evgenii86-97/qa-auto-engineer-python-project-49/actions)
+[![Quality gate status](https://sonarcloud.io/api/project_badges/measure?project=Evgenii86-97_qa-auto-engineer-python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Evgenii86-97_qa-auto-engineer-python-project-49)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Evgenii86-97_qa-auto-engineer-python-project-49&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Evgenii86-97_qa-auto-engineer-python-project-49)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Evgenii86-97_qa-auto-engineer-python-project-49&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=Evgenii86-97_qa-auto-engineer-python-project-49)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Evgenii86-97_qa-auto-engineer-python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Evgenii86-97_qa-auto-engineer-python-project-49)
 
 Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
 
