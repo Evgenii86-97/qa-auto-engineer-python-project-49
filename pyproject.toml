@@ -1,7 +1,7 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "A collection of mathematical mini-games"
 readme = "README.md"
 authors = [
     { name = "Evgenii86-97", email = "aea1997mail.ru" }
@@ -12,7 +12,6 @@ dependencies = [
 ]
 
 [project.scripts]
-qa-auto-engineer-python-project-49 = "qa_auto_engineer_python_project_49:main"
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
 brain-calc = "brain_games.scripts.brain_calc:main"
