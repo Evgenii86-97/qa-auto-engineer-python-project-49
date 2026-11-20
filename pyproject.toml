@@ -1,12 +1,12 @@
 [project]
-name = "hexlet-code"
+name = "brain-games"
 version = "0.1.0"
 description = "A collection of mathematical mini-games"
 readme = "README.md"
 authors = [
     { name = "Evgenii86-97", email = "aea1997mail.ru" }
 ]
-requires-python = ">=3.15"
+requires-python = ">=3.10"
 dependencies = [
     "prompt>=0.4.1",
 ]
