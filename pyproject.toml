@@ -16,6 +16,7 @@ qa-auto-engineer-python-project-49 = "qa_auto_engineer_python_project_49:main"
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_even:main"
 brain-calc = "brain_games.scripts.brain_calc:main"
+brain-gcd = "brain_games.scripts.brain_gcd:main"
 
 [build-system]
 requires = ["uv_build>=0.13.7,<0.14.0"]
